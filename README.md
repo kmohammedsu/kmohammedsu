@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png"](https://github.com/kmohammedsu/kmohammedsu/blob/d12b39f460c34e10824cac1616baae2fdb445726/me1.png) width="100%" title="Intro Card" alt="Intro Card">
+  <img src="[https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png"] width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I'm a **Data Science Graduate Student** at Seattle University, passionate about solving real-world problems through data. I combine a strong math background with practical experience in predictive modeling, machine learning, and geospatial analytics.
