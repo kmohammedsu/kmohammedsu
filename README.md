@@ -53,7 +53,7 @@ Time-series forecasting | Statistical inference | Experimental design | Tableau 
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/emkaymoin) [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:emkaymoin@gmail.com)
+<a href="https://linkedin.com/in/emkaymoin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:emkaymoin@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="28" height="28" alt="Email"/></a>
 
 🌍 Portfolio: [emkaymoin.com](https://www.emkaymoin.com) · 📦 PyPI: [emkaymoin](https://pypi.org/project/emkaymoin)
 
