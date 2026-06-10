@@ -1,75 +1,68 @@
-### Hey, I'm Khaja Moinuddin Mohammed 👋
+# Hey, I'm Khaja Moinuddin Mohammed 👋
+
+[![Intro Card](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png "Intro Card")](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png)
+
+I'm a **Data Scientist at Tacoma Public Utilities** and an **M.S. Data Science grad from Seattle University** (June 2026, GPA 3.85). I build models that hold up in messy, real-world conditions, not just on a benchmark. Strong math foundation, Python all day, and a habit of digging into the underlying theory until a model genuinely makes sense.
+
+🔎 **Open to full-time Data Scientist / ML Engineer roles starting Summer 2026** · Seattle or remote
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png" width="100%" title="Intro Card" alt="Intro Card">
-  
-</p>
+### 🚀 What I'm working on
 
-I'm a **Data Science Graduate Student** at Seattle University, passionate about solving real-world problems through data. I combine a strong math background with practical experience in predictive modeling, machine learning, and geospatial analytics.
-
----
-
-- 🔍 Currently working on **neural network-based bird species audio classification**
-- 📊 Recently completed **Youth Substance Use Risk Modeling** and **SVM-based Health Risk Prediction**
-- 🌧️ Built a geospatial model to predict **Seattle parking demand using weather data**
-- ⚙️ Interests: Modeling, Geospatial Data, ML Interpretability, and Ethical AI
-- 🎯 Goal: Deliver insights that actually *mean* something—backed by models, not just metrics
+- ⚡ **At Tacoma Public Utilities**: turned 152K+ pole inspection records across 367 files into an ML-ready dataset, built reject/pass risk classifiers (XGBoost, LightGBM) with SHAP interpretability, and mapped failure risk across 217 circuits for 5+ stakeholder groups
+- 🚨 **[SafeANC](https://github.com/kmohammedsu/safeANC)**: a real-time audio ML system that detects emergency sirens and selectively bypasses active noise cancellation, targeting <50 ms latency on embedded hardware
+- 📦 **[emkaymoin on PyPI](https://pypi.org/project/emkaymoin)**: my portfolio is literally a Python package. `pip install emkaymoin`, then `emkay.whoami()` and explore from there
 
 ---
 
-### 🔧 Technical Skills
+### 📂 Featured projects
 
-**Languages**  
-Python | R | SQL | MySQL
+- 🔹 [SafeANC: Siren-Aware Active Noise Cancellation](https://github.com/kmohammedsu/safeANC)
+  Real-time emergency sound detection that keeps safety-critical audio audible while ANC handles everything else
 
-**Machine Learning**  
-Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression Modeling
+- 🔹 [Legal Clause Classification](https://github.com/kmohammedsu/legal_clause_classification)
+  End-to-end NLP pipeline labeling contract clauses from the CUAD dataset. TF-IDF + MLP reached 93.2% test accuracy and 0.93 macro F1, holding up on rare clause types too
 
-**Data Engineering**  
-Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning
+- 🔹 [Seattle Smart Parking Demand Prediction](https://github.com/kmohammedsu/seattle-parking-weather-analysis)
+  Forecasted parking demand across five Seattle zones from 850K+ parking and weather records (R² = 0.86)
 
-**Deep Learning**  
-CNNs | Spectrograms | Audio Signal Processing
+- 🔹 [Bird Species Audio Classification](https://github.com/kmohammedsu/bird_sound_neural_network)
+  CNNs on spectrograms to classify bird species from sound clips (89% accuracy)
 
-**Tools & Platforms**  
-Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake
-
----
-
-### 📂 Projects
-
-- 🔹 [Seattle Smart Parking Demand Prediction](https://github.com/kmohammedsu/seattle-parking-weather-analysis)  
-  Forecasted parking demand using weather and spatial features (R² = 0.86)
-
-- 🔹 [Youth Drug Use Risk Modeling](https://github.com/kmohammedsu/youth-drug-use-analysis)  
-  Predicted adolescent substance use with 55K+ survey responses and 300+ engineered features
-
-- 🔹 [SVM-Based Health Risk Predictor](https://github.com/kmohammedsu/svm-health-behavior-prediction)  
-  Modeled diabetes risk using NHIS data, improved recall for minority classes with SMOTE
-
-- 🔹 [Bird Audio Classification](https://github.com/kmohammedsu/bird_sound_neural_network)  
-  Used CNNs and spectrograms to classify bird species from sound clips (89% accuracy)
+- 🔹 [Youth Substance Use Risk Modeling](https://github.com/kmohammedsu/youth-drug-use-analysis)
+  Predicted adolescent substance use from 55K+ survey responses with 300+ engineered features
 
 ---
 
+### 🔧 Technical skills
 
+**Languages & Databases**
+Python (pandas, NumPy, scikit-learn) | SQL | MongoDB | Snowflake
 
-### 🌐 Connect with Me
+**ML & Deep Learning**
+XGBoost | LightGBM | TensorFlow/Keras | PyTorch | SHAP | NLP | CNNs & audio signal processing
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/emkaymoin)
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kmohammedsu)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:emkaymoin@gmail.com)
+**Data Engineering & MLOps**
+ETL pipelines | Feature engineering | Geospatial & spatio-temporal analysis | Data governance | Docker
 
-<br/>
+**Analytics & BI**
+Time-series forecasting | Statistical inference | Experimental design | Tableau | Power BI | AWS (EC2, S3)
 
 ---
 
-### ✨ Interests
-Mathematics, Competitive Gaming, Teaching, Data-driven Problem Solving, Exploring Tech, Music and Sound, Travel
+### 🌐 Connect with me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/emkaymoin) [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:emkaymoin@gmail.com)
+
+🌍 Portfolio: [emkaymoin.com](https://www.emkaymoin.com) · 📦 PyPI: [emkaymoin](https://pypi.org/project/emkaymoin)
 
 ---
 
-Let's connect and build something meaningful.  
-**If you liked any project, drop a ⭐️ — it means a lot!**
+### ✨ Beyond the code
+
+Mathematics, competitive gaming (former IGL and esports coach), speedcubing, photography, cooking, and teaching things to anyone who will listen.
+
+---
+
+If a project here was useful or interesting, drop a ⭐️. It means a lot!
