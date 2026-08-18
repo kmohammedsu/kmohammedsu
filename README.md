@@ -1,6 +1,6 @@
 # Hey, I'm Khaja Moinuddin Mohammed 👋
 
-[![Intro Card](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png "Intro Card")](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png)
+[![Intro Card](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me2.png "Intro Card")](https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me2.png)
 
 I'm a **Data Scientist at Tacoma Public Utilities** and an **M.S. Data Science grad from Seattle University** (June 2026, GPA 3.85). I build models that hold up in messy, real-world conditions, not just on a benchmark. Strong math foundation, Python all day, and a habit of digging into the underlying theory until a model genuinely makes sense.
 
